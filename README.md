@@ -1,6 +1,6 @@
 # PyRegRipper
 
-Just a simple tool I wrote some time ago to better understand some forensic artifact. It appeared to become something in the spirit of RegRipper, but if you really want to do some forensic, you should check the real [RegRipper](https://github.com/keydet89/RegRipper2.8).
+Just a simple tool I wrote some time ago to better understand some forensic artifacts. It appeared to become something in the spirit of RegRipper, but if you really want to do some forensic you should check the real [RegRipper](https://github.com/keydet89/RegRipper2.8).
 
 ## Usage
 
@@ -30,6 +30,7 @@ Last Modified Last Update Path File Size Exec Flag
 11/21/10 03:24:09 N/A C:\Windows\system32\LogonUI.exe N/A True
 05/04/11 05:19:28 N/A C:\Windows\system32\SearchFilterHost.exe N/A True
 05/04/11 05:19:28 N/A C:\Windows\system32\SearchProtocolHost.exe N/A True
+[...]
 ```
 
 ## Plugins
